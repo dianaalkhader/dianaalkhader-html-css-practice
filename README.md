@@ -1,4 +1,4 @@
-# Diana Al-khader's HTML practice assignment
+# Diana Al-khader's HTML CSS practice assignment
 
 By Diana Al-khader
 
